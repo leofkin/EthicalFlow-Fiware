@@ -18,7 +18,8 @@ O sistema roda em uma Máquina Virtual Azure com a seguinte estrutura:
 
 ## 🧪 Evidências de Integração
 <img width="464" height="289" alt="{6E68D545-4749-4002-BB5F-7AE6816B2485}" src="https://github.com/user-attachments/assets/19e84b7e-227c-4684-8c06-4f5775554f1e" />
-<img width="724" height="820" alt="{FE4638AB-3833-4BDB-95C6-91C35DA8B5D3}" src="https://github.com/user-attachments/assets/549807fc-a0a4-4fb4-a294-5044b5fea456" />
+<img width="709" height="308" alt="image" src="https://github.com/user-attachments/assets/9ca52393-c932-4410-9978-f1ca18e488ca" />
+
 
 
 
